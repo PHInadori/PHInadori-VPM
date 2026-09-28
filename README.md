@@ -8,4 +8,4 @@ Add this URL to VCC or ALCOM to discover and install listed packages.
 
 ## Packages
 
-- [FaceMotion](https://github.com/PHInadori/FaceMotion) (`com.facemotion.editor`) will appear after its first GitHub Release.
+- [FaceMotion](https://github.com/PHInadori/FaceMotion) (`com.facemotion.editor`) is available through this VPM listing.
